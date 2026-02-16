@@ -1,5 +1,6 @@
 // Libraries
 #include <stdio.h>
+#include <stdlib.h>
 
 // Main Function
 int main()
